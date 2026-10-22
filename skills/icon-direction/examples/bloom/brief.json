@@ -1,0 +1,10 @@
+{
+  "generatedBy": "scripts/build-skill-examples.mjs",
+  "name": "Blue hour",
+  "product": "A daily creative practice",
+  "useCase": "A daily creative practice",
+  "intention": "Five unequal petals lean toward one hot center. Asymmetry and the offset stem keep a familiar flower from becoming a stock rosette.",
+  "risk": "The irregular center can read as a pinwheel.",
+  "source": "edition-one/bloom-signature.svg",
+  "sourceSha256": "cf01e26ef7ee00da2eb644153f6bfbdfc9b4ad05bad61aca5d3ff62eb9392afc"
+}

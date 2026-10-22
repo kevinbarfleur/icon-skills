@@ -1,0 +1,10 @@
+{
+  "generatedBy": "scripts/build-skill-examples.mjs",
+  "name": "City fold",
+  "product": "City discovery",
+  "useCase": "City discovery",
+  "intention": "A map folds into a small city canyon, making exploration tactile rather than a location pin.",
+  "risk": "The drawing is deliberately spatial and needs a simplified silhouette if used as a tiny standalone mark.",
+  "source": "edition-one/city-fold-signature.svg",
+  "sourceSha256": "dfe7e485c15055cb5477e2c4ab482a34d2388635ccc45ea366b2a8452d65c11a"
+}

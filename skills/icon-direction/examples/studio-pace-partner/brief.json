@@ -1,0 +1,10 @@
+{
+  "generatedBy": "scripts/build-skill-examples.mjs",
+  "name": "Pace partner",
+  "product": "Keep the effort and recovery distinct.",
+  "useCase": "Interval training cues",
+  "intention": "A long orange racing ribbon narrows through a quiet cream pause before widening again. The gap is part of the rhythm.",
+  "risk": "The pace partner metaphor needs its product context; test the silhouette without the written explanation before choosing it for interval training cues.",
+  "source": "edition-one/studio-pace-partner-signature.svg",
+  "sourceSha256": "2459cac457aa680dfefd21106c6b03dbfdbca2ff509512ba8e244e11272689e8"
+}

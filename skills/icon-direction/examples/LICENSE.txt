@@ -1,0 +1,22 @@
+ICON SKILL EXAMPLE ARTWORK LICENSE
+Copyright (c) 2026 Kevin Barfleur. All rights reserved except as expressly granted below.
+
+Scope
+This license covers the bundled example SVGs, previews, color comparison images and associated artwork briefs.
+It does not apply to the skill instructions, reference text or renderer code, which use the MIT License.
+It does not change the terms of any other icons in the online collection.
+
+Permitted use
+You may download, study, copy and modify these examples to create personal and commercial end products, including applications, websites and client projects.
+You may deliver an example used in a client end product, together with its editable source, to that client.
+You may reproduce the examples as references when sharing this skill, provided you retain this license and do not present the examples as original artwork of your own.
+Attribution in end products is welcome but not required.
+
+Restrictions
+You may not resell or redistribute the examples, including modified versions, as a competing stock icon library, standalone artwork pack or icon template collection.
+The examples are non-exclusive and no trademark clearance, trademark rights or exclusive identity is granted.
+No rights in Kevin Barfleur's name or other branding are granted.
+
+No warranty
+The examples are provided as is, without warranty of any kind.
+To the extent permitted by law, the author is not liable for claims, damages or other liability arising from their use.
